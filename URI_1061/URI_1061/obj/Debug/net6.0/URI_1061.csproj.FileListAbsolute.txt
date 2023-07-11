@@ -1,0 +1,15 @@
+C:\Users\letic\OneDrive\Documentos\GitHub\Csharp_Atividades\URI_1061\URI_1061\bin\Debug\net6.0\URI_1061.exe
+C:\Users\letic\OneDrive\Documentos\GitHub\Csharp_Atividades\URI_1061\URI_1061\bin\Debug\net6.0\URI_1061.deps.json
+C:\Users\letic\OneDrive\Documentos\GitHub\Csharp_Atividades\URI_1061\URI_1061\bin\Debug\net6.0\URI_1061.runtimeconfig.json
+C:\Users\letic\OneDrive\Documentos\GitHub\Csharp_Atividades\URI_1061\URI_1061\bin\Debug\net6.0\URI_1061.dll
+C:\Users\letic\OneDrive\Documentos\GitHub\Csharp_Atividades\URI_1061\URI_1061\bin\Debug\net6.0\URI_1061.pdb
+C:\Users\letic\OneDrive\Documentos\GitHub\Csharp_Atividades\URI_1061\URI_1061\obj\Debug\net6.0\URI_1061.csproj.AssemblyReference.cache
+C:\Users\letic\OneDrive\Documentos\GitHub\Csharp_Atividades\URI_1061\URI_1061\obj\Debug\net6.0\URI_1061.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\letic\OneDrive\Documentos\GitHub\Csharp_Atividades\URI_1061\URI_1061\obj\Debug\net6.0\URI_1061.AssemblyInfoInputs.cache
+C:\Users\letic\OneDrive\Documentos\GitHub\Csharp_Atividades\URI_1061\URI_1061\obj\Debug\net6.0\URI_1061.AssemblyInfo.cs
+C:\Users\letic\OneDrive\Documentos\GitHub\Csharp_Atividades\URI_1061\URI_1061\obj\Debug\net6.0\URI_1061.csproj.CoreCompileInputs.cache
+C:\Users\letic\OneDrive\Documentos\GitHub\Csharp_Atividades\URI_1061\URI_1061\obj\Debug\net6.0\URI_1061.dll
+C:\Users\letic\OneDrive\Documentos\GitHub\Csharp_Atividades\URI_1061\URI_1061\obj\Debug\net6.0\refint\URI_1061.dll
+C:\Users\letic\OneDrive\Documentos\GitHub\Csharp_Atividades\URI_1061\URI_1061\obj\Debug\net6.0\URI_1061.pdb
+C:\Users\letic\OneDrive\Documentos\GitHub\Csharp_Atividades\URI_1061\URI_1061\obj\Debug\net6.0\URI_1061.genruntimeconfig.cache
+C:\Users\letic\OneDrive\Documentos\GitHub\Csharp_Atividades\URI_1061\URI_1061\obj\Debug\net6.0\ref\URI_1061.dll
