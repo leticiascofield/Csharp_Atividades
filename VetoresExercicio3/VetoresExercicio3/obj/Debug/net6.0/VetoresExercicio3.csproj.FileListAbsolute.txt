@@ -1,0 +1,15 @@
+C:\Users\letic\OneDrive\Documentos\GitHub\Csharp_Atividades\VetoresExercicio3\VetoresExercicio3\bin\Debug\net6.0\VetoresExercicio3.exe
+C:\Users\letic\OneDrive\Documentos\GitHub\Csharp_Atividades\VetoresExercicio3\VetoresExercicio3\bin\Debug\net6.0\VetoresExercicio3.deps.json
+C:\Users\letic\OneDrive\Documentos\GitHub\Csharp_Atividades\VetoresExercicio3\VetoresExercicio3\bin\Debug\net6.0\VetoresExercicio3.runtimeconfig.json
+C:\Users\letic\OneDrive\Documentos\GitHub\Csharp_Atividades\VetoresExercicio3\VetoresExercicio3\bin\Debug\net6.0\VetoresExercicio3.dll
+C:\Users\letic\OneDrive\Documentos\GitHub\Csharp_Atividades\VetoresExercicio3\VetoresExercicio3\bin\Debug\net6.0\VetoresExercicio3.pdb
+C:\Users\letic\OneDrive\Documentos\GitHub\Csharp_Atividades\VetoresExercicio3\VetoresExercicio3\obj\Debug\net6.0\VetoresExercicio3.csproj.AssemblyReference.cache
+C:\Users\letic\OneDrive\Documentos\GitHub\Csharp_Atividades\VetoresExercicio3\VetoresExercicio3\obj\Debug\net6.0\VetoresExercicio3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\letic\OneDrive\Documentos\GitHub\Csharp_Atividades\VetoresExercicio3\VetoresExercicio3\obj\Debug\net6.0\VetoresExercicio3.AssemblyInfoInputs.cache
+C:\Users\letic\OneDrive\Documentos\GitHub\Csharp_Atividades\VetoresExercicio3\VetoresExercicio3\obj\Debug\net6.0\VetoresExercicio3.AssemblyInfo.cs
+C:\Users\letic\OneDrive\Documentos\GitHub\Csharp_Atividades\VetoresExercicio3\VetoresExercicio3\obj\Debug\net6.0\VetoresExercicio3.csproj.CoreCompileInputs.cache
+C:\Users\letic\OneDrive\Documentos\GitHub\Csharp_Atividades\VetoresExercicio3\VetoresExercicio3\obj\Debug\net6.0\VetoresExercicio3.dll
+C:\Users\letic\OneDrive\Documentos\GitHub\Csharp_Atividades\VetoresExercicio3\VetoresExercicio3\obj\Debug\net6.0\refint\VetoresExercicio3.dll
+C:\Users\letic\OneDrive\Documentos\GitHub\Csharp_Atividades\VetoresExercicio3\VetoresExercicio3\obj\Debug\net6.0\VetoresExercicio3.pdb
+C:\Users\letic\OneDrive\Documentos\GitHub\Csharp_Atividades\VetoresExercicio3\VetoresExercicio3\obj\Debug\net6.0\VetoresExercicio3.genruntimeconfig.cache
+C:\Users\letic\OneDrive\Documentos\GitHub\Csharp_Atividades\VetoresExercicio3\VetoresExercicio3\obj\Debug\net6.0\ref\VetoresExercicio3.dll

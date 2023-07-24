@@ -1,0 +1,15 @@
+C:\Users\letic\OneDrive\Documentos\GitHub\Csharp_Atividades\MatrizesExercicio3\MatrizesExercicio3\bin\Debug\net6.0\MatrizesExercicio3.exe
+C:\Users\letic\OneDrive\Documentos\GitHub\Csharp_Atividades\MatrizesExercicio3\MatrizesExercicio3\bin\Debug\net6.0\MatrizesExercicio3.deps.json
+C:\Users\letic\OneDrive\Documentos\GitHub\Csharp_Atividades\MatrizesExercicio3\MatrizesExercicio3\bin\Debug\net6.0\MatrizesExercicio3.runtimeconfig.json
+C:\Users\letic\OneDrive\Documentos\GitHub\Csharp_Atividades\MatrizesExercicio3\MatrizesExercicio3\bin\Debug\net6.0\MatrizesExercicio3.dll
+C:\Users\letic\OneDrive\Documentos\GitHub\Csharp_Atividades\MatrizesExercicio3\MatrizesExercicio3\bin\Debug\net6.0\MatrizesExercicio3.pdb
+C:\Users\letic\OneDrive\Documentos\GitHub\Csharp_Atividades\MatrizesExercicio3\MatrizesExercicio3\obj\Debug\net6.0\MatrizesExercicio3.csproj.AssemblyReference.cache
+C:\Users\letic\OneDrive\Documentos\GitHub\Csharp_Atividades\MatrizesExercicio3\MatrizesExercicio3\obj\Debug\net6.0\MatrizesExercicio3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\letic\OneDrive\Documentos\GitHub\Csharp_Atividades\MatrizesExercicio3\MatrizesExercicio3\obj\Debug\net6.0\MatrizesExercicio3.AssemblyInfoInputs.cache
+C:\Users\letic\OneDrive\Documentos\GitHub\Csharp_Atividades\MatrizesExercicio3\MatrizesExercicio3\obj\Debug\net6.0\MatrizesExercicio3.AssemblyInfo.cs
+C:\Users\letic\OneDrive\Documentos\GitHub\Csharp_Atividades\MatrizesExercicio3\MatrizesExercicio3\obj\Debug\net6.0\MatrizesExercicio3.csproj.CoreCompileInputs.cache
+C:\Users\letic\OneDrive\Documentos\GitHub\Csharp_Atividades\MatrizesExercicio3\MatrizesExercicio3\obj\Debug\net6.0\MatrizesExercicio3.dll
+C:\Users\letic\OneDrive\Documentos\GitHub\Csharp_Atividades\MatrizesExercicio3\MatrizesExercicio3\obj\Debug\net6.0\refint\MatrizesExercicio3.dll
+C:\Users\letic\OneDrive\Documentos\GitHub\Csharp_Atividades\MatrizesExercicio3\MatrizesExercicio3\obj\Debug\net6.0\MatrizesExercicio3.pdb
+C:\Users\letic\OneDrive\Documentos\GitHub\Csharp_Atividades\MatrizesExercicio3\MatrizesExercicio3\obj\Debug\net6.0\MatrizesExercicio3.genruntimeconfig.cache
+C:\Users\letic\OneDrive\Documentos\GitHub\Csharp_Atividades\MatrizesExercicio3\MatrizesExercicio3\obj\Debug\net6.0\ref\MatrizesExercicio3.dll
