@@ -1,0 +1,15 @@
+C:\Users\letic\OneDrive\Documentos\GitHub\Csharp_Atividades\POOExercicio4\POOExercicio4\bin\Debug\net6.0\POOExercicio4.exe
+C:\Users\letic\OneDrive\Documentos\GitHub\Csharp_Atividades\POOExercicio4\POOExercicio4\bin\Debug\net6.0\POOExercicio4.deps.json
+C:\Users\letic\OneDrive\Documentos\GitHub\Csharp_Atividades\POOExercicio4\POOExercicio4\bin\Debug\net6.0\POOExercicio4.runtimeconfig.json
+C:\Users\letic\OneDrive\Documentos\GitHub\Csharp_Atividades\POOExercicio4\POOExercicio4\bin\Debug\net6.0\POOExercicio4.dll
+C:\Users\letic\OneDrive\Documentos\GitHub\Csharp_Atividades\POOExercicio4\POOExercicio4\bin\Debug\net6.0\POOExercicio4.pdb
+C:\Users\letic\OneDrive\Documentos\GitHub\Csharp_Atividades\POOExercicio4\POOExercicio4\obj\Debug\net6.0\POOExercicio4.csproj.AssemblyReference.cache
+C:\Users\letic\OneDrive\Documentos\GitHub\Csharp_Atividades\POOExercicio4\POOExercicio4\obj\Debug\net6.0\POOExercicio4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\letic\OneDrive\Documentos\GitHub\Csharp_Atividades\POOExercicio4\POOExercicio4\obj\Debug\net6.0\POOExercicio4.AssemblyInfoInputs.cache
+C:\Users\letic\OneDrive\Documentos\GitHub\Csharp_Atividades\POOExercicio4\POOExercicio4\obj\Debug\net6.0\POOExercicio4.AssemblyInfo.cs
+C:\Users\letic\OneDrive\Documentos\GitHub\Csharp_Atividades\POOExercicio4\POOExercicio4\obj\Debug\net6.0\POOExercicio4.csproj.CoreCompileInputs.cache
+C:\Users\letic\OneDrive\Documentos\GitHub\Csharp_Atividades\POOExercicio4\POOExercicio4\obj\Debug\net6.0\POOExercicio4.dll
+C:\Users\letic\OneDrive\Documentos\GitHub\Csharp_Atividades\POOExercicio4\POOExercicio4\obj\Debug\net6.0\refint\POOExercicio4.dll
+C:\Users\letic\OneDrive\Documentos\GitHub\Csharp_Atividades\POOExercicio4\POOExercicio4\obj\Debug\net6.0\POOExercicio4.pdb
+C:\Users\letic\OneDrive\Documentos\GitHub\Csharp_Atividades\POOExercicio4\POOExercicio4\obj\Debug\net6.0\POOExercicio4.genruntimeconfig.cache
+C:\Users\letic\OneDrive\Documentos\GitHub\Csharp_Atividades\POOExercicio4\POOExercicio4\obj\Debug\net6.0\ref\POOExercicio4.dll
