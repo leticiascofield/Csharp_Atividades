@@ -13,9 +13,9 @@ namespace curso {
             Console.Write("Entre o titular da conta: ");
             string nomeTitular = Console.ReadLine();
             Console.Write("Haverá depósito inicial (s/n)? ");
-            char depositoInicial = char.Parse(Console.ReadLine());
+            char resposta = char.Parse(Console.ReadLine());
 
-            if (depositoInicial == 's') {
+            if (resposta == 's') {
                 Console.Write("Entre o valor de depósito inicial: ");
                 double saldo = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
                 contaBancaria = new ContaBancaria(numeroConta, nomeTitular, saldo);
