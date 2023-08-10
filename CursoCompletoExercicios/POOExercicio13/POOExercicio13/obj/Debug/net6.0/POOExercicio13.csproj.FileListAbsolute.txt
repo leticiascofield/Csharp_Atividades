@@ -1,0 +1,15 @@
+C:\Users\letic\OneDrive\Documentos\GitHub\Csharp_Atividades\CursoCompletoExercicios\POOExercicio13\POOExercicio13\bin\Debug\net6.0\POOExercicio13.exe
+C:\Users\letic\OneDrive\Documentos\GitHub\Csharp_Atividades\CursoCompletoExercicios\POOExercicio13\POOExercicio13\bin\Debug\net6.0\POOExercicio13.deps.json
+C:\Users\letic\OneDrive\Documentos\GitHub\Csharp_Atividades\CursoCompletoExercicios\POOExercicio13\POOExercicio13\bin\Debug\net6.0\POOExercicio13.runtimeconfig.json
+C:\Users\letic\OneDrive\Documentos\GitHub\Csharp_Atividades\CursoCompletoExercicios\POOExercicio13\POOExercicio13\bin\Debug\net6.0\POOExercicio13.dll
+C:\Users\letic\OneDrive\Documentos\GitHub\Csharp_Atividades\CursoCompletoExercicios\POOExercicio13\POOExercicio13\bin\Debug\net6.0\POOExercicio13.pdb
+C:\Users\letic\OneDrive\Documentos\GitHub\Csharp_Atividades\CursoCompletoExercicios\POOExercicio13\POOExercicio13\obj\Debug\net6.0\POOExercicio13.csproj.AssemblyReference.cache
+C:\Users\letic\OneDrive\Documentos\GitHub\Csharp_Atividades\CursoCompletoExercicios\POOExercicio13\POOExercicio13\obj\Debug\net6.0\POOExercicio13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\letic\OneDrive\Documentos\GitHub\Csharp_Atividades\CursoCompletoExercicios\POOExercicio13\POOExercicio13\obj\Debug\net6.0\POOExercicio13.AssemblyInfoInputs.cache
+C:\Users\letic\OneDrive\Documentos\GitHub\Csharp_Atividades\CursoCompletoExercicios\POOExercicio13\POOExercicio13\obj\Debug\net6.0\POOExercicio13.AssemblyInfo.cs
+C:\Users\letic\OneDrive\Documentos\GitHub\Csharp_Atividades\CursoCompletoExercicios\POOExercicio13\POOExercicio13\obj\Debug\net6.0\POOExercicio13.csproj.CoreCompileInputs.cache
+C:\Users\letic\OneDrive\Documentos\GitHub\Csharp_Atividades\CursoCompletoExercicios\POOExercicio13\POOExercicio13\obj\Debug\net6.0\POOExercicio13.dll
+C:\Users\letic\OneDrive\Documentos\GitHub\Csharp_Atividades\CursoCompletoExercicios\POOExercicio13\POOExercicio13\obj\Debug\net6.0\refint\POOExercicio13.dll
+C:\Users\letic\OneDrive\Documentos\GitHub\Csharp_Atividades\CursoCompletoExercicios\POOExercicio13\POOExercicio13\obj\Debug\net6.0\POOExercicio13.pdb
+C:\Users\letic\OneDrive\Documentos\GitHub\Csharp_Atividades\CursoCompletoExercicios\POOExercicio13\POOExercicio13\obj\Debug\net6.0\POOExercicio13.genruntimeconfig.cache
+C:\Users\letic\OneDrive\Documentos\GitHub\Csharp_Atividades\CursoCompletoExercicios\POOExercicio13\POOExercicio13\obj\Debug\net6.0\ref\POOExercicio13.dll
